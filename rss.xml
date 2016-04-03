@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[James Rian]]></title>
         <description><![CDATA[James Rian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-rian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 07:28:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 07:49:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-rian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3fd8620-5358-48d5-955a-797c09f314b3.jpg">]]></description>
+            <link>https://thegrid.ai/james-rian/welcome-to-the-music-of-james-rian-singer-soul-guitar/index.html</link>
+            <guid isPermaLink="false">0c5e76da-80ef-46ba-992f-3cfbdf19bbcc</guid>
+            <pubDate>Sun, 03 Apr 2016 07:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57589f30-e1cd-44b2-99da-be7971959172.jpg">]]></description>
-            <link>undefineda213a77e-13ab-4b78-b4fd-2fd331da13e7/index.html</link>
+            <link>https://thegrid.ai/james-rian/a213a77e-13ab-4b78-b4fd-2fd331da13e7/index.html</link>
             <guid isPermaLink="false">a213a77e-13ab-4b78-b4fd-2fd331da13e7</guid>
             <pubDate>Sun, 03 Apr 2016 07:28:34 GMT</pubDate>
         </item>
